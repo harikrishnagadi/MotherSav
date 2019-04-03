@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_small_item.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.aurelhubert\\ahbottomnavigation\\2.0.6\\res\\layout-v21\\bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_item.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.aurelhubert\\ahbottomnavigation\\2.0.6\\res\\layout-v21\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\dummy\\project\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "G:\\dummy\\project\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
